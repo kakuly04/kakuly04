@@ -1,10 +1,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="900" />
 </p>
-<h1 align="center">Hello! I am Kakuly </h1>
+<h1 align="center">Hello! I am Kakuly ^ ^</h1>
 <h3 align="center"> Aspiring Data Analyst | Machine Learning Engineer</h3>
 
-
+- 🏫 Graduated from Nanyang Technological University
+- 📚 Majored in Computer Science (with a specialisation in Artificial Intelligence)
+- 💡 I love working with data!
 <!--
 **kakuly04/kakuly04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
