@@ -1,5 +1,10 @@
-## Hi there 👋
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAwOTY0MzIsIm5iZiI6MTc1MDA5NjEzMiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE2VDE3NDg1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyMTM0YzIzNmNjYTRmMTBiOTQxMjM2OGU3NzZjZjQxZDE2Y2NjMjIyZTQzNDk0MmNlZDAzM2NjMjQ4ZGY3OWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SgEg9iRoDP692kaP-MbQdVc6dSZXl1OZNiSuQspHkP8)" width="300">
+
+<h1 align="center">Hi 👋, I am Kakuly </h1>
+<h3 align="center"> Aspiring Data Analyst | Machine Learning Engineer</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="300" />
+</p>
 <!--
 **kakuly04/kakuly04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
