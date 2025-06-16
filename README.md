@@ -8,6 +8,17 @@
 - 📚 Majored in Computer Science (with a specialisation in Artificial Intelligence)
 - 💡 I love working with Data and AI Models
 - 🌱 Creating Data-driven strategies drives me!
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat" />
+</p>
+
+---
 <!--
 **kakuly04/kakuly04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
