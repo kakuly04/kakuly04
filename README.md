@@ -6,7 +6,8 @@
 
 - 🏫 Graduated from Nanyang Technological University
 - 📚 Majored in Computer Science (with a specialisation in Artificial Intelligence)
-- 💡 I love working with data!
+- 💡 I love working with Data and AI Models
+- 🌱 Creating Data-driven strategies drives me!
 <!--
 **kakuly04/kakuly04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
